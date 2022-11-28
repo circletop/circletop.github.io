@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: 'git'
   repo: 'https://github.com/circletop/circletop.github.io.git'
-  branch 'master'
+  branch: 'master'
